@@ -1,16 +1,6 @@
-*.vscode
-*.DS_Store
-
-2_impl_repos
-studies
+# Administrative
+research_topics.txt
 literature
 open_source
-courses
 .dccache
-
-# Administrative
 targets.txt
-todo.txt
-research_topics.txt
-schools.txt
-companies.txt
