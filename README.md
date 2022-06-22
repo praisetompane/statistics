@@ -1,4 +1,7 @@
 # statistics
+
+**Disclaimer**: This is an ongoing and incomplete project to unpack these concepts.
+
 def 1: tools to understand data¹ 
 
 def 2⁹: the science of developing and studying
