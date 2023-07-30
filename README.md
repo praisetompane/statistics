@@ -17,9 +17,9 @@ types (KhanAcademy):
 * inferential: predict behavior of dataset by determining behavior of a random sample from it.
  
 # References:
-    KhanAcademy.https://www.khanacademy.org/math/cc-sixth-grade-math/cc-6th-data-statistics/mean-and-median/v/statistics-intro-mean-median-and-mode.
-    KhanAcademy.https://www.khanacademy.org/math/cc-sixth-grade-math/cc-6th-data-statistics/mean-and-median/a/calculating-the-mean.
-    UCI Department of Statistics - Donald Bren School of Information & Computer Sciences. https://www.stat.uci.edu/what-is-statistics/.
+* KhanAcademy.https://www.khanacademy.org/math/cc-sixth-grade-math/cc-6th-data-statistics/mean-and-median/v/statistics-intro-mean-median-and-mode.
+* KhanAcademy.https://www.khanacademy.org/math/cc-sixth-grade-math/cc-6th-data-statistics/mean-and-median/a/calculating-the-mean.
+* UCI Department of Statistics - Donald Bren School of Information & Computer Sciences. https://www.stat.uci.edu/what-is-statistics/.
 
 # Legend
 Q: Question for later research
