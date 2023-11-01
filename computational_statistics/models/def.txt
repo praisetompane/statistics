@@ -1,0 +1,28 @@
+def: model: an experimental device that can help us understand something/data that (Guttag, 2016):
+    - has happened
+    - hasn't happened(predict the future)
+
+def computation model: how can we use computation to help us understand the world/things (Guttag, 2016).
+    
+Kinds of models (Guttag, 2016):
+    Prescriptive = tell you WHAT to DO to get an effect
+        1. Optimization
+        In order to make this happen(effect), you must do DO this
+    
+    Descriptive = describes/shows possible effect/outcomes (NOT how to achieve an effect/outcome)
+        3. Simulation
+        if I do this, here is what happens(effect)
+        when to use:
+            mathematically intractable problems/effects
+            get intermediate results to an effect
+            answer increasingly more complex what if questions
+    
+    Predictive?: predict what will happen
+                example: predict the value of an unknown quantity or random variable
+        
+    2. Statistical
+
+
+references
+- Guttag J. 2016. Introduction and Optimization Problems. https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/resources/lecture-1-introduction-and-optimization-problems/
+- Guttag J. 2016. Stochastic Thinking. https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-4-stochastic-thinking/

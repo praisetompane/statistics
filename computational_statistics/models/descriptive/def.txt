@@ -1,0 +1,1 @@
+def descriptive: answers the question; what are all the possible things that can happen(Guttag, 2016)

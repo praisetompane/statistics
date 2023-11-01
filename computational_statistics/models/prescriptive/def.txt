@@ -1,0 +1,4 @@
+def prescriptive: answers the question; what do you need to do to achieve an outcome (Guttag, 2016).
+
+references
+- Guttag J. 2016. Stochastic Thinking. https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-4-stochastic-thinking/
