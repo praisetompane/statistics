@@ -1,0 +1,21 @@
+{
+	"name": "statistics",
+	"build": {
+		"dockerfile": "../Dockerfile"
+	},
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"ms-python.python",
+				"ms-python.vscode-pylance",
+				"ms-python.black-formatter",
+				"ms-python.debugpy",
+				"ms-python.mypy-type-checker",
+				"mozart-oz.vscode-oz"
+			],
+			"settings": {}
+		}
+	},
+	"workspaceMount": "source=${localWorkspaceFolder},target=/statistics,type=bind,consistency=delegated",
+	"workspaceFolder": "/statistics"
+}

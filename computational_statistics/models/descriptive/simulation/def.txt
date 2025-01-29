@@ -7,7 +7,7 @@ ENGLISH: If I do this, here is what happens²
 def simulation model: an experimental device that mimics the behavior of a real world system.¹ 
     use cases:
         used to predict the future state of a system.
-        in leau of experiments too expensive, dangerous, time consuming etc to perform in real life.
+        in lieu of experiments too expensive, dangerous, time consuming etc to perform in real life.
     NB: DO NOT produce exact results.
 
 ENGLISH: 

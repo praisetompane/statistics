@@ -2,7 +2,7 @@ a range of values within which
     we expect a random value to exist
     and the confidence level(as a percentage) about its existence in the range (Guttag, 2016)
 
-empiral rule
+empirical rule
 
 normal distribution easy to generate? Why?
 

@@ -26,7 +26,7 @@ Problem: Often attempt to describe/estimate an unknown value by a single value(e
                 - The Mean estimation error is zero(0)
                     i.e. Equally likely to guess High or Low
                 - The Distribution of the errors in the estimate is NORMAL(i.e. Gaussian distribution)
-                    See 4_distributions.txt for defs
+                    See 4_distributions.txt for definitions.
             def: 
                 Given 
                     data
