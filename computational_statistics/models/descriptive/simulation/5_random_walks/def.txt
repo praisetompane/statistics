@@ -72,6 +72,6 @@ Examples Random Walk⁴:
 
 references:
     1 https://en.wikipedia.org/wiki/Random_walk
-    2 Random Walks - MIT, https://www.mit.edu/~kardar/teaching/projects/chemotaxis(AndreaSchmidt)/random.htm
+    2 Schmidt A.Random Walks - MIT.
     3,4 Guttag, John. Introduction to Computation and Programming Using Python: With Application to Understanding Data. 2nd ed. MIT Press, 2016. ISBN: 9780262529624
     

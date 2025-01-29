@@ -1,4 +1,6 @@
 # What is Statistics?
+![build status](https://github.com/praisetompane/statistics/actions/workflows/statistics.yaml/badge.svg) <br>
+
 def¹: tools to understand data (KhanAcademy).
 
 def²: the science of developing and studying
@@ -16,6 +18,13 @@ types (KhanAcademy):
 * descriptive: describe large number dataset with a smaller set of numbers
 * inferential: predict behavior of dataset by determining behavior of a random sample from it.
  
+
+## Spellcheck:
+```shell
+pipenv shell
+pyspelling -c spellcheck.yaml
+```
+
 # References:
 * KhanAcademy.https://www.khanacademy.org/math/cc-sixth-grade-math/cc-6th-data-statistics/mean-and-median/v/statistics-intro-mean-median-and-mode.
 * KhanAcademy.https://www.khanacademy.org/math/cc-sixth-grade-math/cc-6th-data-statistics/mean-and-median/a/calculating-the-mean.

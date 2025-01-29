@@ -35,8 +35,8 @@ types of Measures of Central tendency(i.e. Averages) (KhanAcademy):
 
     3. Mode = Most frequent number in the dataset. 
         algorithm:
-            count occurences of each number
-            find number with highest occurence count
+            count occurrences of each number
+            find number with highest occurrence count
                 if no single number has the highest frequency, then
                     the dataset has no mode
 

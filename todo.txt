@@ -7,21 +7,21 @@ purpose: understand statistics.
     - 0_foundations: what is statistics?
 
     - 1_mathematics_of_statistics: how is statistics use?: 1 hour
-        - degree module: 
-        - videos: 
+        - lectures:
+            6.041 (Probabilistic Systems Analysis and Applied Probability)
+                https://ocw.mit.edu/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/
+            18.650 (Statistics for Applications | Fundamentals of Statistics)
+                https://ocw.mit.edu/courses/18-650-statistics-for-applications-fall-2016/
         - readings: 
         - recitations:
         - assignments:
         - exams:
 
     - computational_statistics:
-        - degree module: 
-        - videos: 
+        - lectures:
             MIT 6.0002: Introduction To Computational Thinking And Data Science
-                https://www.youtube.com/playlist?list=PLUl4u3cNGP619EG1wp0kT-7rDE_Az5TNd
         - readings: 
             MIT 6.0002: Introduction To Computational Thinking And Data Science
-                https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/pages/syllabus/
         - recitations:
         - assignments:
         - exams:
@@ -29,20 +29,17 @@ purpose: understand statistics.
 - field update:
 
 ==============================================================================================
-- next:
-- next field template
-    - next_field: 1 hour
-        - degree module:
-        - videos:
-        - readings: 
-        - assignments:
-        - exams:
+- next field template:
+    - lectures:
+    - readings:
+    - assignments:
+    - exams:
 
-timeline:
-    see .plan.txt
 
 legend:
-    *: visited today/last session
-        nb: all subjects must be visited before a repeat visit.
+    *: SQ visit complete
+    **: R1 visit complete
+    ***: R2 visit complete
+    ****: R3 visit complete
 
 ================================================completed================================================
