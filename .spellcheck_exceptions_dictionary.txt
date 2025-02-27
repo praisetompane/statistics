@@ -107,7 +107,8 @@ py
 sqrt
 pipenv
 pyspelling
-
+devcontainers
+visualstudio
 
 # institutions
 cengage
@@ -188,6 +189,7 @@ abjorndahl
 mec
 xcae
 hrmacbeth
+dev
 
 
 # Mathematics Subject Classification – MSC2020
