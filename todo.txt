@@ -1,45 +1,20 @@
-purpose: understand statistics.
-
-- priority:
-    - study
-    - field update
-- study:
-    - 0_foundations: what is statistics?
-
-    - 1_mathematics_of_statistics: how is statistics use?: 1 hour
-        - lectures:
-            6.041 (Probabilistic Systems Analysis and Applied Probability)
-                https://ocw.mit.edu/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/
-            18.650 (Statistics for Applications | Fundamentals of Statistics)
-                https://ocw.mit.edu/courses/18-650-statistics-for-applications-fall-2016/
-        - readings: 
-        - recitations:
-        - assignments:
-        - exams:
-
-    - computational_statistics:
-        - lectures:
-            MIT 6.0002: Introduction To Computational Thinking And Data Science
-        - readings: 
-            MIT 6.0002: Introduction To Computational Thinking And Data Science
-        - recitations:
-        - assignments:
-        - exams:
-
-- field update:
-
+- computational_statistics:
+    - lectures:
+        - Bell, A. Grimson, E. Guttag, J. 2016. 6.0002 - Introduction To Computational Thinking and Data Science. Massachusetts Institute of Technology
+            - current: Lecture 7 - Confidence Intervals
+    - readings: 
+    - assignments:
+    - exams:
 ==============================================================================================
 - next field template:
     - lectures:
     - readings:
     - assignments:
     - exams:
-
-
+==============================================================================================
 legend:
     *: SQ visit complete
     **: R1 visit complete
     ***: R2 visit complete
     ****: R3 visit complete
-
 ================================================completed================================================

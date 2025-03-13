@@ -1,6 +1,8 @@
 # What is Statistics?
 ![build status](https://github.com/praisetompane/statistics/actions/workflows/statistics.yaml/badge.svg) <br>
 
+## Objectives
+- An attempt at unpacking statistics and its foundations in layman's terms.
 
 ## Definitions:
 - def statistics¹: tools to understand data (KhanAcademy).
@@ -30,9 +32,6 @@
 ## Statisticians
 
 ## Spell Check
-```shell
-pipenv shell
-```
 
 ```shell
 pyspelling -c spellcheck.yaml
@@ -48,4 +47,4 @@ pyspelling -c spellcheck.yaml
 
 **MYINC**: My Insight/Conjecture [Could Be Unoriginal/False and Likely Is]
 
-**Disclaimer**: This is an ongoing and incomplete project to unpack these concepts and serve as my distributed memory.
+**Disclaimer**: This is an ongoing and incomplete project to unpack these concepts and serves as my distributed memory.
