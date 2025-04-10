@@ -45,3 +45,7 @@ types of Measures of Central tendency(i.e. Averages) (KhanAcademy):
 
         1, 6, 3, 9, 8
             ∴ Mode = None
+
+References:
+    - KhanAcademy.https://www.khanacademy.org/math/cc-sixth-grade-math/cc-6th-data-statistics/mean-and-median/v/statistics-intro-mean-median-and-mode.
+    - KhanAcademy.https://www.khanacademy.org/math/cc-sixth-grade-math/cc-6th-data-statistics/mean-and-median/a/calculating-the-mean.

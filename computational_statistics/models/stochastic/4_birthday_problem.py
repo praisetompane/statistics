@@ -1,21 +1,22 @@
 """
-    What is the probability of people sharing a birthday?
+What is the probability of people sharing a birthday?
 
-    Given
-        367 people
-    Then
-        p = 1
-        by way of pigeon hole principle
-            i.e. There are 367 people(birthdays) and ONLY 366 holes(dates)
-                ∴ 2 people WILL HAVE TO share a hole(birthday)
+Given
+    367 people
+Then
+    p = 1
+    by way of pigeon hole principle
+        i.e. There are 367 people(birthdays) and ONLY 366 holes(dates)
+            ∴ 2 people WILL HAVE TO share a hole(birthday)
 
-    Analytic Solution:
-        Assumption: Each birthday is EQUALLY LIKELY
-                366!
-        1 - ---------------
-            366ᴺ * (366-N)!
+Analytic Solution:
+    Assumption: Each birthday is EQUALLY LIKELY
+            366!
+    1 - ---------------
+        366ᴺ * (366-N)!
 
 """
+
 from math import factorial
 import random
 

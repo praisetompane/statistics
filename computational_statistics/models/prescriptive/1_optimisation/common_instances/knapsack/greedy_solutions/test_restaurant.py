@@ -1,10 +1,11 @@
 """
-    References: 
-    https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-1-introduction-and-optimization-problems/
+References:
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-1-introduction-and-optimization-problems/
 """
 
-from restuarant import Food, buildMenu
-from greedy import greedy
+from greedy_solutions.restaurant import Food, buildMenu
+from greedy_solutions.greedy import greedy
+import pytest
 
 
 def _test_greedy(menu, constraint, keyFunction):
@@ -16,6 +17,7 @@ def _test_greedy(menu, constraint, keyFunction):
         print(f"{item.name}, {item.getValue()}, {item.getCost()}")
 
 
+@pytest.mark.parametrize("max_unit", [800])
 def test_greedys(max_unit):
     foods = ["wine ", "beer ", "pizza", "burger ", "fries ", "coke ", "apple ", "donut"]
     values = [89, 90, 30, 50, 50, 79, 90, 10]

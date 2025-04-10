@@ -95,6 +95,7 @@ trinomial
 sentential
 
 # technology
+pytest
 ary
 forall
 forallx

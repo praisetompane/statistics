@@ -4,7 +4,7 @@
 ## Objectives
 - An attempt at unpacking statistics and its foundations in layman's terms.
 
-## Definitions:
+## Definitions
 - def statistics¹: tools to understand data (KhanAcademy).
 - def statistics²: the science of developing and studying methods for *collecting*, *analyzing*, *interpreting* and *presenting* empirical data (UCI Department of Statistics).
 
@@ -31,20 +31,23 @@
 
 ## Statisticians
 
+## Testing
+- ### Execute Tests
+  ```shell
+  pytest
+  ```
+  
 ## Spell Check
 
 ```shell
 pyspelling -c spellcheck.yaml
 ```
 
-# References:
-* KhanAcademy.https://www.khanacademy.org/math/cc-sixth-grade-math/cc-6th-data-statistics/mean-and-median/v/statistics-intro-mean-median-and-mode.
-* KhanAcademy.https://www.khanacademy.org/math/cc-sixth-grade-math/cc-6th-data-statistics/mean-and-median/a/calculating-the-mean.
-* UCI Department of Statistics - Donald Bren School of Information & Computer Sciences. https://www.stat.uci.edu/what-is-statistics/.
+# References
+- UCI Department of Statistics - Donald Bren School of Information & Computer Sciences. https://www.stat.uci.edu/what-is-statistics/.
 
 ## Legend
-**Q**: Question for later research
-
+**Q**: Question for later research<br>
 **MYINC**: My Insight/Conjecture [Could Be Unoriginal/False and Likely Is]
 
 **Disclaimer**: This is an ongoing and incomplete project to unpack these concepts and serves as my distributed memory.
