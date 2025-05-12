@@ -1,9 +1,11 @@
-- computational_statistics:
+- 62-08_computational_methods_for_problems_pertaining_to_statistics:
     - lectures:
         - Bell, A. Grimson, E. Guttag, J. 2016. 6.0002 - Introduction To Computational Thinking and Data Science. Massachusetts Institute of Technology
             - current: Lecture 7 - Confidence Intervals
     - readings: 
+        - https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/pages/readings/
     - assignments:
+        - https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/pages/assignments/
     - exams:
 ==============================================================================================
 - next field template:
