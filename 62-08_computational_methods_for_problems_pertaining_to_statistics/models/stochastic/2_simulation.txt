@@ -1,5 +1,5 @@
 def simulation:
-    refer to /descriptive/simulation
+    see: 62-08_computational_methods_for_problems_pertaining_to_statistics/models/descriptive/simulation
 
     1. Run large sample size depending on the rarity of the event
     2. Be explicit that the result is a sampled probability
