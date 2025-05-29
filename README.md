@@ -31,8 +31,9 @@
 - Formal Classification Scheme:
   - [ZBMATH](https://zbmath.org/classification/?q=cc%3A62)
 
-- [Theoretical Basis](https://zbmath.org/classification/?q=cc%3A60)
-    - [60_probability_theory_and_stochastic_processes](https://github.com/praisetompane/mathematics/tree/main/60_probability_theory_and_stochastic_processes)
+- Theory
+    - Theoretical Basis: [60_probability_theory_and_stochastic_processes](https://zbmath.org/classification/?q=cc%3A60)
+    - Formal Science: [62_statistics](https://zbmath.org/classification/?q=cc%3A62)
 
 ## Learning Order
 - [0_elementary](0_elementary)
