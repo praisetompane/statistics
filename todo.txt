@@ -1,31 +1,71 @@
-- 0_elementary:
-    - readings:
-        - Blackwell, D. 1969. Basic Statistics. McGraw Hill.
-    - course schedule:
-        -
-    - lectures:
-        -
-    - recitations|labs:
-        -
-    - assignments:
-        -
-    - exams:
-        -
+==============================================================================================
+- next₀:
+    - 00_general_and_overarching_topics;collections:
+        - readings:
+            -
+        - lectures:
+            - Hill, A. 2018. Crash Course Statistics. Complexly, PBS Digital Studios
+        - recitations|labs:
+            -
+        - assignments:
+            -
+        - exams:
+            -
 
-- 62-08_computational_methods_for_problems_pertaining_to_statistics:
-    - readings:
-        - https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/pages/readings/
-    - course schedule:
-        -
-    - lectures:
-        - Bell, A. Grimson, E. Guttag, J. 2016. 6.0002 - Introduction To Computational Thinking and Data Science. Massachusetts Institute of Technology
-            - current: Lecture 7 - Confidence Intervals
-    - recitations|labs:
-        -
-    - assignments:
-        - https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/pages/assignments/
-    - exams:
-        -
+    - 0_elementary:
+        - readings:
+            - Blackwell, D. 1969. Basic Statistics. McGraw Hill.
+        - course schedule:
+            -
+        - lectures:
+            -
+        - recitations|labs:
+            -
+        - assignments:
+            -
+        - exams:
+            -
+
+    - 62-08_computational_methods_for_problems_pertaining_to_statistics:
+        - course schedule:
+            - 6.0002:
+                - https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/pages/syllabus/
+            - CS109:
+                - https://web.stanford.edu/class/archive/cs/cs109/cs109.1256/handouts/syllabus.html
+                - https://web.stanford.edu/class/cs109/
+
+        - readings:
+            - 6.0002:
+                - https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/pages/readings/
+            - CS109:
+                - Reader: https://probabilityforcs.firebaseapp.com/book
+                - Reference Sheet: https://web.stanford.edu/class/archive/cs/cs109/cs109.1256/handouts/cs109-reference-sheet.pdf
+
+        - lectures:
+            - 6.0002:
+                - Bell, A. Grimson, E. Guttag, J. 2016. 6.0002 - Introduction To Computational Thinking and Data Science. Massachusetts Institute of Technology
+                    - current: Lecture 7 - Confidence Intervals
+            - CS109:
+                - Piech, C. 2022. CS109 - Probability for Computer Scientists. Stanford University
+
+        - recitations|labs:
+            - 6.0002:
+                -
+            - CS109:
+                -
+
+        - assignments:
+            - 6.0002:
+                - https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/pages/assignments/
+            - CS109:
+                -
+
+        - exams:
+            - 6.0002:
+                -
+            - CS109:
+                - https://web.stanford.edu/class/cs109/exams/final.html
+
 ==============================================================================================
 - next field template:
     - readings:
@@ -40,10 +80,11 @@
         -
     - exams:
         -
+
 ==============================================================================================
 legend:
     *: SQ visit complete
     **: R1 visit complete
     ***: R2 visit complete
     ****: R3 visit complete
-================================================completed================================================
+=============================================done=============================================
