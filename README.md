@@ -17,7 +17,7 @@
   - [Legend](#legend)
 
 ## Objectives
-- An attempt at unpacking Statistics and its relationship with Computation and Mathematics.
+- Notes: Statistics.
 
 ## Definitions
 - def statistics¹: tools to understand data (KhanAcademy).

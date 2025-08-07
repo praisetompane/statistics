@@ -18,7 +18,7 @@
         - course schedule:
             -
         - lectures:
-            -
+            - Rigollet, P. MIT 18.650 Statistics for Applications, Fall 2016
         - recitations|labs:
             -
         - assignments:
@@ -82,9 +82,10 @@
         -
 
 ==============================================================================================
-legend:
-    *: SQ visit complete
-    **: R1 visit complete
-    ***: R2 visit complete
-    ****: R3 visit complete
+SQR3 legend:
+    *: S visit complete
+    **: Q visit complete
+    ***: R1 visit complete
+    ****: R2 visit complete
+    *****: R3 visit complete
 =============================================done=============================================

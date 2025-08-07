@@ -1,4 +1,47 @@
+# acronyms
+bce
+NGB
+bsc
+doctrate
+ebooks
+msc
+programme
+programmes
+todo
+wst
+wtw
+befocused
+onedrive
+technion
+magnus
+khanacademy
+kunen
+multilinear
+multisets
+precalculus
+ams
+claymath
+ima
+joma
+leanprover
+maa
+mathematicallogic
+Prover
+ryp
+sams
+shorthands
+svg
+terrytao
+txt
+woit
+yaml
+za
+SQR
+
+
 # authors
+Rigollet
+Piech
 Meng
 Xiao
 AndreaSchmidt
@@ -96,7 +139,9 @@ rhs
 trinomial
 sentential
 
+
 # technology
+firebaseapp
 pytest
 ary
 forall
@@ -113,7 +158,9 @@ pyspelling
 devcontainers
 visualstudio
 
+
 # institutions
+McGraw
 cengage
 coursera
 delftx
@@ -142,46 +189,6 @@ zbmath
 zulipchat
 
 
-# acronyms
-bce
-NGB
-bsc
-doctrate
-ebooks
-msc
-programme
-programmes
-todo
-wst
-wtw
-befocused
-onedrive
-technion
-magnus
-khanacademy
-kunen
-multilinear
-multisets
-precalculus
-ams
-claymath
-ima
-joma
-leanprover
-maa
-mathematicallogic
-Prover
-ryp
-sams
-shorthands
-svg
-terrytao
-txt
-woit
-yaml
-za
-
-
 # places
 Jozi
 
@@ -193,6 +200,7 @@ mec
 xcae
 hrmacbeth
 dev
+probabilityforcs
 
 
 # Mathematics Subject Classification – MSC2020
